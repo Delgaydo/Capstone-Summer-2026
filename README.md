@@ -46,10 +46,11 @@ This project examines how demographic, socioeconomic, and school-level factors i
 #### 4.3 Interpretation of Findings
 
 ### Chapter 5: Discussion and Conclusion
-### 5.1 Summary of Findings
-### 5.2 Discussion
-### 5.3 Educational Implications
-### 5.4 Limitations
+
+#### 5.1 Summary of Findings
+#### 5.2 Discussion
+#### 5.3 Educational Implications
+#### 5.4 Limitations
 #### 5.5 Recommendations for Future Research
 
 ### References
