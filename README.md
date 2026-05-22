@@ -74,6 +74,21 @@ Although previous studies have examined mathematics achievement, demographic fac
 #### 5.5 Recommendations for Future Research
 
 ### References
+Amrein, A. L., & Berliner, D. C. (2002). High-stakes testing, uncertainty, and student learning. Education Policy Analysis Archives, 10(18), 1–74.
+
+Edge, D. L. (2009). Math literacy: The relationship of algebra, gender, ethnicity, socioeconomic status, and AVID enrollment with high school math course completion and college readiness (Doctoral dissertation, University of North Texas).
+
+Haile, G. A., & Nguyen, A. N. (2008). Determinants of academic attainment in the United States: A quantile regression analysis of test scores. Education Economics, 16(1), 29–57. https://doi.org/10.1080/09645290701523218
+
+Han, K., & Whitacre, B. E. (2016). Student performance and school size: A two-stage spatial quantile regression approach to evaluate Oklahoma high schools. Journal of Applied Research in Higher Education, 8(3), 304–325.
+
+Holley, H. D. (2017). A quantitative study analyzing predictive factors that affect achievement on Florida’s Algebra I End-of-Course exam (EOC) (Doctoral dissertation, Florida Southern College).
+
+Levin, J. (2001). For whom the reductions count: A quantile regression analysis of class size and peer effects on scholastic achievement. Empirical Economics, 26, 221–246.
+
+Pani, P. K., & Kishore, P. (2016). Absenteeism and performance in a quantitative module: A quantile regression analysis. Journal of Applied Research in Higher Education, 8(3), 376–389. https://doi.org/10.1108/JARHE-05-2014-0054
+
+Tian, M. (2008). A quantile regression analysis of family background factor effects on mathematical achievement (Unpublished manuscript, Renmin University of China).
 
 
 
