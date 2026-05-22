@@ -22,9 +22,9 @@ This project examines how demographic, socioeconomic, and school-level factors i
 ### Chapter 2: Literature Review
 
 #### 2.1 Introduction
-##### 2.2 Algebra 1 and Math Achievement
-##### 2.3 Socioeconomic Factors and Achievement
-##### 2.4 Demographic Predictors
+#### 2.2 Algebra 1 and Math Achievement
+#### 2.3 Socioeconomic Factors and Achievement
+#### 2.4 Demographic Predictors
 #### 2.5 School-Level Predictors
 #### 2.6 High-Stakes Testing and Florida EOC
 #### 2.7 Quantile Regression in Educational Research
