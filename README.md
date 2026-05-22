@@ -35,12 +35,13 @@ This project examines how demographic, socioeconomic, and school-level factors i
 #### 3.1 Research Design
 #### 3.2 Data Sources
 #### 3.3 Population and Sample
-##### 3.4 Variables
+#### 3.4 Variables
 #### 3.5 Data Collection Procedures
 #### 3.6 Data Analysis
 #### 3.7 Statistical Software
 
 ### Chapter 4: Results
+
 #### 4.1 Descriptive Statistics
 #### 4.2 Quantile Regression Results
 #### 4.3 Interpretation of Findings
