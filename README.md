@@ -21,6 +21,13 @@ This study addresses that gap by examining how demographic, socioeconomic, and s
   
 
 #### 1.2 Problem Statement
+Mathematics achievement in Florida high schools continues to be an important issue in education, especially regarding student performance on the Algebra 1 End-of-Course (EOC) exam. The Algebra 1 EOC is a high-stakes test that is required for high school graduation and is often used to measure student readiness for higher-level mathematics courses. Previous studies have shown that factors such as socioeconomic status, ethnicity, attendance, family background, and school characteristics can influence mathematics achievement. However, many of these studies use traditional regression methods that mainly focus on average student performance and may overlook differences between low-performing and high-performing students.
+
+In addition, while researchers have studied Florida Algebra 1 EOC achievement and used Quantile Regression in educational research separately, limited research has combined both areas together. This creates a gap in the literature because demographic, socioeconomic, and school-level factors may affect students differently depending on their achievement level. Without understanding these differences, schools and policymakers may have difficulty developing effective intervention strategies to improve mathematics achievement for all students.
+
+Therefore, the purpose of this study is to use Quantile Regression to examine how demographic, socioeconomic, and school-level predictors influence Algebra 1 EOC achievement across different performance levels among Florida high school students.
+
+
 #### 1.3 Purpose of the Study
 #### 1.4 Research Questions
 #### 1.5 Significance of the Study
