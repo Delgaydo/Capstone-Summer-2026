@@ -12,7 +12,7 @@ This project examines how demographic, socioeconomic, and school-level factors i
 
 ### Chapter 1: Introduction
 
-# 1.1 Background of the Study
-# 1.2 Problem Statement
-# 1.3 Purpose of the Study
-# 1.4 Research Questions
+#### 1.1 Background of the Study
+#### 1.2 Problem Statement
+#### 1.3 Purpose of the Study
+#### 1.4 Research Questions
