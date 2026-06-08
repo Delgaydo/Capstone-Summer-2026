@@ -3,9 +3,7 @@
 ## Quantile Regression Analysis of Demographic, Socioeconomic, and School-Level Predictors of Algebra 1 End-of-Course Achievement in Florida High Schools
 
 ### Group Members
-- Jegg Ononiewu
-- Wendy Matende
-- Madison Edwards
+- Jegg Ononiewu - Wendy Matende - Madison Edwards
 
 ### Project Description
 This project examines how demographic, socioeconomic, and school-level factors influence Algebra 1 EOC achievement among Florida high school students using Quantile Regression analysis.
@@ -21,13 +19,13 @@ This study addresses that gap by examining how demographic, socioeconomic, and s
   
 
 #### 1.2 Problem Statement
-Mathematics achievement in Florida high schools continues to be an important issue in education, especially regarding student performance on the Algebra 1 End-of-Course (EOC) exam. The Algebra 1 EOC is a high-stakes test that is required for high school graduation and is often used to measure student readiness for higher-level mathematics courses. Previous studies have shown that factors such as socioeconomic status, ethnicity, attendance, family background, and school characteristics can influence mathematics achievement. However, many of these studies use traditional regression methods that mainly focus on average student performance and may overlook differences between low-performing and high-performing students.
 
-In addition, while researchers have studied Florida Algebra 1 EOC achievement and used Quantile Regression in educational research separately, limited research has combined both areas together. This creates a gap in the literature because demographic, socioeconomic, and school-level factors may affect students differently depending on their achievement level. Without understanding these differences, schools and policymakers may have difficulty developing effective intervention strategies to improve mathematics achievement for all students.
+Mathematics achievement in high schools remains an important issue in educational policy, accountability systems, and school improvement efforts across the United States. In Florida, the Algebra 1 End-of-Course (EOC) exam plays a significant role because it serves as both a graduation requirement and a measure of student readiness for advanced mathematics courses. Previous research has shown that factors such as socioeconomic status, ethnicity, school size, absenteeism, and family background can influence mathematics achievement. For example, Holley (2017) found that students in districts with higher percentages of economically disadvantaged and minority populations tended to have lower Algebra 1 EOC passing rates, while district size was not a significant predictor of achievement. However, Holley's study, like many others, relied on traditional regression techniques that focused on average student performance and may have overlooked important differences across achievement levels.
 
-Therefore, the purpose of this study is to use Quantile Regression to examine how demographic, socioeconomic, and school-level predictors influence Algebra 1 EOC achievement across different performance levels among Florida high school students.
+Recent educational research has increasingly used Quantile Regression to examine how factors influence students at different points of the achievement distribution. Studies by Han and Whitacre (2016), Pani and Kishore (2016), Tian (2008), and Haile and Nguyen (2008) demonstrated that variables such as school size, absenteeism, ethnicity, and family background can affect low-performing and high-performing students differently. These findings suggest that focusing only on average outcomes may hide important variations in how different groups of students respond to demographic, socioeconomic, and school-level influences.
 
-
+Despite the growing use of Quantile Regression in educational research, few studies have applied this approach to Florida mathematics achievement data, particularly Algebra 1 EOC outcomes. As a result, there is limited understanding of how demographic, socioeconomic, and school-level factors influence students across different levels of achievement in Florida high schools. This study addresses that gap by applying Quantile Regression to examine Algebra 1 EOC performance across multiple achievement quantiles. By moving beyond average effects, this research seeks to provide a more comprehensive understanding of the factors associated with mathematics achievement and may help educators, policymakers, and school leaders develop more targeted interventions to improve educational equity and student success.
+Although previous studies have investigated Florida Algebra 1 EOC achievement and Quantile Regression separately, limited evidence exists regarding how demographic, socioeconomic, and school-level factors influence Florida Algebra 1 EOC performance across different achievement levels. Traditional regression models estimate average effects and may mask important differences between lower-performing and higher-performing students. Consequently, educational leaders may lack information needed to design targeted interventions for students at varying achievement levels.
 #### 1.3 Purpose of the Study
 #### 1.4 Research Questions
 #### 1.5 Significance of the Study
@@ -48,12 +46,14 @@ Additional studies have explored the impact of family background and ethnicity o
 
 Although previous studies have examined mathematics achievement, demographic factors, and Quantile Regression separately, there appears to be a gap in the literature regarding Florida Algebra 1 EOC achievement. Specifically, none of the collected studies combined demographic, socioeconomic, and school-level predictors with Quantile Regression analysis using Florida high school mathematics achievement data. This study seeks to address that gap by applying Quantile Regression to analyze how demographic, socioeconomic, and school-level factors influence Algebra 1 EOC achievement across different student performance levels in Florida high schools. By examining differences across achievement quantiles, this research may provide a deeper understanding of educational inequality and help educators and policymakers develop more targeted intervention strategies for improving mathematics achievement.
 
+
 #### 2.2 Algebra 1 and Math Achievement
 #### 2.3 Socioeconomic Factors and Achievement
 #### 2.4 Demographic Predictors
 #### 2.5 School-Level Predictors
 #### 2.6 High-Stakes Testing and Florida EOC
 #### 2.7 Quantile Regression in Educational Research
+Previous research has shown that Quantile Regression is a useful method for studying how different factors affect students at various achievement levels. Studies by Han and Whitacre (2016), Pani and Kishore (2016), Tian (2008), and Haile and Nguyen (2008) found that factors such as school size, attendance, family background, and ethnicity do not affect all students in the same way. Instead, their effects often vary depending on whether students are low, average, or high performers. In addition, Holley (2017) identified several socioeconomic and demographic factors that influence Florida Algebra 1 EOC performance. However, no study has been found that combines Quantile Regression with Florida Algebra 1 EOC data while examining demographic, socioeconomic, and school-level predictors at the same time. Therefore, this study helps fill an important gap in the literature by using Quantile Regression to better understand how these factors influence student achievement across different performance levels. The findings may provide valuable information for educators and policymakers seeking to improve mathematics achievement and educational equity in Florida high schools.
 #### 2.8 Theoretical Framework
 #### 2.9 Summary of Literature
 
@@ -96,8 +96,6 @@ Levin, J. (2001). For whom the reductions count: A quantile regression analysis 
 Pani, P. K., & Kishore, P. (2016). Absenteeism and performance in a quantitative module: A quantile regression analysis. Journal of Applied Research in Higher Education, 8(3), 376–389. https://doi.org/10.1108/JARHE-05-2014-0054
 
 Tian, M. (2008). A quantile regression analysis of family background factor effects on mathematical achievement (Unpublished manuscript, Renmin University of China).
-
-
 
 ### Appendices
 
